@@ -1,4 +1,4 @@
-<h1 align="center">Furry Poland</h1>
+<h1 align="center">MoreScripts</h1>
 
 ###
 
